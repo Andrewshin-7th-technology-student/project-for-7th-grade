@@ -1,0 +1,23 @@
+.game {
+  background-color: #fff;
+}
+
+.game-container {
+  background-color: #f0f0f0;
+}
+
+.player {
+  background-color: #fff;
+}
+
+.obstacle {
+  background-color: #f00;
+}
+
+.power-up {
+  background-color: #0f0;
+}
+
+.enemy {
+  background-color: #00f;
+}
