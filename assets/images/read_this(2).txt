@@ -1,0 +1,16 @@
+* **blocks**
+	+ block1.png
+	+ block2.png
+	+ ...
+* **enemies**
+	+ enemy1.png
+	+ enemy2.png
+	+ ...
+* **power-ups**
+	+ powerup1.png
+	+ powerup2.png
+	+ ...
+* **trails**
+	+ trail1.png
+	+ trail2.png
+	+ ...
