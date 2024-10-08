@@ -1,0 +1,35 @@
+Game Structure:
+
+The game is divided into the following folders:
+
+assets: contains all game assets such as images, audio files, and 3D models.
+js: contains all JavaScript files for the game.
+css: contains all CSS files for the game.
+html: contains the main HTML file for the game.
+index.html: the main entry point for the game.
+JavaScript Files:
+
+main.js: the main game logic file.
+game.js: handles game state, updates, and rendering.
+player.js: handles player movement, collision detection, and power-ups.
+obstacles.js: handles obstacle generation, movement, and collision detection.
+powerups.js: handles power-up generation, movement, and effects.
+enemies.js: handles enemy generation, movement, and collision detection.
+audio.js: handles audio playback and management.
+HTML Files:
+
+index.html: the main entry point for the game.
+game.html: the game container HTML file.
+CSS Files:
+
+styles.css: the main CSS file for the game.
+game.css: handles game-specific styling.
+Audio Files:
+
+sound effects: obtained from the web, used for game sound effects.
+music: obtained from the web, used for game background music.
+3D Models:
+
+cube.obj: the 3D model for the player cube.
+obstacle.obj: the 3D model for obstacles.
+enemy.obj: the 3D model for enemies.
