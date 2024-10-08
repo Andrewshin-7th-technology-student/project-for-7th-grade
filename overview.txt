@@ -1,0 +1,108 @@
+**Cubic Rush**
+================
+
+**assets**
+-----------
+
+### images
+
+* **blocks**
+	+ block1.png
+	+ block2.png
+	+ ...
+* **enemies**
+	+ enemy1.png
+	+ enemy2.png
+	+ ...
+* **power-ups**
+	+ powerup1.png
+	+ powerup2.png
+	+ ...
+* **trails**
+	+ trail1.png
+	+ trail2.png
+	+ ...
+
+### audio
+
+* **sound effects**
+	+ jump.wav
+	+ crash.wav
+	+ ...
+* **music**
+	+ background_music.mp3
+	+ ...
+
+### 3d models
+
+* **cube.obj**
+* **obstacle.obj**
+* **enemy.obj**
+
+**js**
+-----
+
+* **main.js**
+* **game.js**
+* **player.js**
+* **obstacles.js**
+* **powerups.js**
+* **enemies.js**
+* **audio.js**
+
+**css**
+-----
+
+* **styles.css**
+* **game.css**
+
+**html**
+------
+
+* **index.html**
+* **game.html**
+
+**index.html**
+-------------
+
+The main entry point for the game.
+
+**game.html**
+-------------
+
+The game container HTML file.
+
+**main.js**
+-------------
+
+The main game logic file.
+
+**game.js**
+-------------
+
+Handles game state, updates, and rendering.
+
+**player.js**
+-------------
+
+Handles player movement, collision detection, and power-ups.
+
+**obstacles.js**
+----------------
+
+Handles obstacle generation, movement, and collision detection.
+
+**powerups.js**
+----------------
+
+Handles power-up generation, movement, and effects.
+
+**enemies.js**
+--------------
+
+Handles enemy generation, movement, and collision detection.
+
+**audio.js**
+-------------
+
+Handles audio playback and management.
